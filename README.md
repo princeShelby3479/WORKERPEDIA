@@ -1,4 +1,8 @@
-# Skilled Workers and Laborers Online Platform
+# WORKERPEDIA : Skilled Workers and Laborers Online Platform
+
+## Check it : 
+email : mukesh@test.com
+password: mukesh@123
 
 ## Overview
 This project is a dedicated online platform designed specifically for skilled workers and laborers. In today's job market, many skilled workers face challenges in securing employment opportunities that offer fair compensation for their expertise. Our platform aims to address this issue by providing a centralized hub where skilled workers can showcase their skills, location, and wage preferences, while also offering contractors a streamlined solution to connect with qualified laborers, irrespective of geographical barriers.
