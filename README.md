@@ -24,10 +24,10 @@ This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) st
 3. Install dependencies: npm i
 
 ## Usage
-1. Start the server:
-cd server
-npm run dev
+1. Start the server: <br>
+cd server <br>
+npm run dev <br>
 
-2. Start the client:
-cd client
-npm run start
+2. Start the client: <br>
+cd client <br>
+npm run start <br>
